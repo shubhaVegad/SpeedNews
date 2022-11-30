@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpeedNews/static/css/main.b98eb7b4.css",
+    "main.js": "/SpeedNews/static/js/main.e92bad44.js",
+    "static/js/787.4c026eef.chunk.js": "/SpeedNews/static/js/787.4c026eef.chunk.js",
+    "index.html": "/SpeedNews/index.html",
+    "main.b98eb7b4.css.map": "/SpeedNews/static/css/main.b98eb7b4.css.map",
+    "main.e92bad44.js.map": "/SpeedNews/static/js/main.e92bad44.js.map",
+    "787.4c026eef.chunk.js.map": "/SpeedNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98eb7b4.css",
+    "static/js/main.e92bad44.js"
+  ]
+}
